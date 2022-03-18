@@ -1,0 +1,26 @@
+[{
+    "name":"Rajesh sir",
+    "department":"MECH",
+    "role":"HOD",
+    "qualification":"Phd in Robotics,mtech in AIE,Btech in CSE",
+    "mob":"9898989898",
+    "email":"Rajesh@gmail.com",
+    "sub":"automobiles,ML"
+},
+{
+    "name":"Sudha mam",
+    "department":"CIVIL",
+    "role":"Professer",
+    "qualification":"mtech in smart cities,btech in CIVIL",
+    "mob":"9394949392",
+    "email":"sudha@gmail.com",
+    "sub":"smart cities,architecture"
+},{
+    "name":"Sagar sir",
+    "department":"IT",
+    "role":"Assitant proffesor",
+    "qualification":"mtech in Robotics,Btech in CSE",
+    "mob":"9192919291",
+    "email":"sagar@gmail.com",
+    "sub":"JAVA,Python"
+}]
